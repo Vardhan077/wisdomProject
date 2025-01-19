@@ -46,22 +46,6 @@ Follow these steps to run the project locally:
    http://localhost:3000
 
 
-## Project Structure
-
-src/
-├── components/
-│   ├── UserList.js       // Renders the list of users
-│   ├── UserCard.js       // Displays individual user details on the home page
-│   ├── UserDetail.js     // Displays detailed information of a user
-│   ├── SearchBar.js      // Search functionality for filtering users
-│   └── SortingBar.js     // Sorting functionality for A-Z, Z-A
-├── context/              // Context API logic for global state management
-├── pages/
-│   ├── HomePage.js       // Displays the home page with user list
-│   └── UserDetailPage.js // Displays detailed view of a selected user
-├── App.js                // Main app component with routing
-├── index.js              // Entry point of the React app
-├── index.css             // Global Tailwind CSS styles
 
 
 
